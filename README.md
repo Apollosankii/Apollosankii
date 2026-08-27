@@ -14,16 +14,24 @@ Portfolio: [dev-website-rosy.vercel.app](https://dev-website-rosy.vercel.app/)
 - Backends with Supabase (auth, Postgres, RLS)
 - Shipping to real users, not only coursework
 
-## Featured work
+## Featured work (try these)
+
+Source for the full AZeal and Hive platforms stays private. These are live apps you can open:
+
+**Hive / QejaCrib** — Property management for landlords and tenants (rent, units, maintenance).  
+Live: [hive-silk-six.vercel.app](https://hive-silk-six.vercel.app)
 
 **Hive Property Pro** — Property management PWA: buildings, tenants, utility billing, and payments.  
 Live: [property-pro-azure.vercel.app](https://property-pro-azure.vercel.app)
 
-**AZeal** — Ride-hailing operations: admin dashboard for riders, drivers, and trips.  
-Public snapshot: [azeal-admin-panel](https://github.com/Apollosankii/azeal-admin-panel)
+**AZeal** — Ride-hailing operations dashboard (riders, drivers, trips).  
+Live: [azeal-admin-pied.vercel.app](https://azeal-admin-pied.vercel.app)
 
-**ConnectHer** — Platform work across Android (Kotlin) and an operator admin portal.  
-[connecther-android](https://github.com/Apollosankii/connecther-android) · [connecther-admin-portal](https://github.com/Apollosankii/connecther-admin-portal)
+**ConnectHer** — Operator admin portal (catalog and platform ops).  
+Live: [connecther-admin-portal.vercel.app](https://connecther-admin-portal.vercel.app)  
+Android (Kotlin): [connecther-android](https://github.com/Apollosankii/connecther-android)
+
+Most of these use a sign-in screen. Email [tevinmokaya@gmail.com](mailto:tevinmokaya@gmail.com) for a demo login if you want to click through as a guest.
 
 ## Stack
 
@@ -31,4 +39,4 @@ Public snapshot: [azeal-admin-panel](https://github.com/Apollosankii/azeal-admin
 
 ---
 
-Available for hire. If you want a walkthrough of a private build (AZeal / Hive), I can share a live demo.
+Available for hire.
