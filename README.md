@@ -16,7 +16,7 @@ Portfolio: [dev-website-rosy.vercel.app](https://dev-website-rosy.vercel.app/)
 
 ## Featured work (try these)
 
-Source for the full AZeal and Hive platforms stays private. These are live apps you can open:
+Private projects: Source code for selected production projects is kept private for confidentiality and security reasons. I'm happy to provide a live demonstration or discuss the architecture and implementation during an interview.
 
 **Hive / QejaCrib** — Property management for landlords and tenants (rent, units, maintenance).  
 Live: [hive-silk-six.vercel.app](https://hive-silk-six.vercel.app)
