@@ -21,7 +21,7 @@ Portfolio: [dev-website-rosy.vercel.app](https://dev-website-rosy.vercel.app/)
 
 **[Bargain](https://github.com/Apollosankii/bargain)** — Full-stack online auction platform (bidders, auctioneers, admin console).  
 Built with **PHP · Yii2 · PostgreSQL · Bootstrap 5 · RBAC**.  
-Preview: [apollosankii.github.io/bargain](https://apollosankii.github.io/bargain/) · [Source code](https://github.com/Apollosankii/bargain)
+Live demo: [bargain-demo.onrender.com](https://bargain-demo.onrender.com) · Admin: [bargain-admin.onrender.com](https://bargain-admin.onrender.com) · [Source code](https://github.com/Apollosankii/bargain)
 
 ### Live demos
 
