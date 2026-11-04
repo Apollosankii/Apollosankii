@@ -1,39 +1,54 @@
 # Felix Njihia
 
-**Full-stack engineer building practical web, mobile, and backend products.** I work across product UI, APIs, PostgreSQL, payments, and cloud-backed applications, with a focus on solving real operational problems.
+Full-stack engineer building reliable web products, internal tools, and customer-facing platforms with TypeScript, React, PostgreSQL, Supabase, and backend systems for real-world operations.
 
 📍 Nairobi, Kenya · [Email](mailto:APOLLO.SANKII@GMAIL.COM) · [Portfolio](https://dev-website-rosy.vercel.app/) · [GitHub](https://github.com/Apollosankii)
 
 ## Selected work
 
-A selection of products I have built, with live deployments and source references where available. Some repositories are private, so source access may require an invitation; the public product links are available to explore.
+I build products that combine product thinking, clean backend architecture, and practical deployment workflows. Below are some of the systems I’ve built and shipped with live project references.
 
-### [QejaCrib](https://www.qejacrib.com) · [Open the app](https://app.qejacrib.com) · [Source](https://github.com/Apollosankii/hive)
-Property-management software built for Kenyan landlords and letting agents. The platform supports rent collection by M-Pesa, utility billing, tenant and lease management, maintenance workflows, and owner statements.
+### QejaCrib
+- Public website: https://www.qejacrib.com
+- App: https://app.qejacrib.com
+- Source: https://github.com/Apollosankii/hive
 
-**Built with:** TypeScript, React, Supabase, PostgreSQL.
+Property-management SaaS for landlords and tenants in Kenya, covering portfolio management, rent collection, utilities, maintenance, lease workflows, and tenant communication. This project combines a web app, mobile experience, and Supabase/PostgreSQL backend.
 
-### [ConnectHer](https://connecther-womens-hope-ten.vercel.app) · [Source](https://github.com/Apollosankii/connecther-womens-hope)
-A women’s support platform organized as a mobile app, operator admin portal, and Supabase backend. The repository documents Expo/React Native mobile delivery, a Next.js admin portal, and backend Edge Functions.
+Built with: TypeScript, React, Supabase, PostgreSQL, Expo, Vite.
 
-**Built with:** React Native / Expo, Next.js, TypeScript, Supabase.
+### ConnectHer
+- Live demo: https://connecther-womens-hope-ten.vercel.app
+- Source: https://github.com/Apollosankii/connecther-womens-hope
 
-### [AZeal](https://azeal-admin-pied.vercel.app) · [Source](https://github.com/Apollosankii/Azeal)
-A ride-hailing platform with an operations dashboard and a driver app. The documented product includes ride and fleet operations, live driver tracking, driver onboarding, trip navigation, earnings, and safety tools.
+A women’s support platform designed as a multi-part system with a mobile app, operator admin portal, and backend services for content, operations, and support workflows.
 
-**Built with:** TypeScript, React, Expo / React Native, Supabase, Firebase.
+Built with: React Native / Expo, Next.js, TypeScript, Supabase.
 
-### [Hive Property Pro](https://property-pro-azure.vercel.app) · [Source](https://github.com/Apollosankii/Hive-property-pro)
-A property-management PWA for buildings, units, tenants, utility billing, payment records, and reports. Includes offline support and installable mobile/desktop experiences.
+### AZeal
+- Live admin dashboard: https://azeal-admin-pied.vercel.app
+- Source: https://github.com/Apollosankii/Azeal
 
-**Built with:** React, TypeScript, Supabase, PostgreSQL, Tailwind CSS.
+Ride-hailing platform with a driver app and operations dashboard for trip management, live tracking, driver onboarding, earnings, and safety tooling.
 
-## More work
+Built with: TypeScript, React, Expo / React Native, Supabase, Firebase.
 
-- [Bargain](https://github.com/Apollosankii/bargain) — PHP/Yii2 online auction platform with PostgreSQL, role-based access, and bidder/auctioneer/admin workflows.
-- [Portfolio website](https://dev-website-rosy.vercel.app/) — selected work, technologies, and contact information.
+### Hive Property Pro
+- Live app: https://property-pro-azure.vercel.app
+- Source: https://github.com/Apollosankii/Hive-property-pro
 
-## Technologies
+A property-management PWA focused on billing automation, building and unit management, tenant records, payments, and reporting for property operators.
+
+Built with: React, TypeScript, Supabase, PostgreSQL, Tailwind CSS.
+
+### Bargain
+- Source: https://github.com/Apollosankii/bargain
+
+Online auction marketplace with auctioneer, bidder, and admin workflows, role-based access, and PostgreSQL-backed business logic.
+
+Built with: PHP, Yii2, PostgreSQL, JavaScript, CSS.
+
+## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -44,10 +59,12 @@ A property-management PWA for buildings, units, tenants, utility billing, paymen
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-## What I’m focused on
+## Areas of focus
 
-Building reliable product experiences end to end: accessible interfaces, secure backend workflows, maintainable APIs, database design, and production readiness. I’m also exploring Python for backend development, with Go and Rust as areas of continued learning.
+I enjoy building products end to end: database design, API design, business workflows, operational dashboards, and polished user experiences. I’m especially interested in systems that help teams manage real operations reliably and scale cleanly.
+
+I’m also continuing to deepen my backend skills with Python, while exploring Go and Rust for systems and performance-oriented engineering.
 
 ## Contact
 
-For roles, collaborations, or a walkthrough of any project: [APOLLO.SANKII@GMAIL.COM](mailto:APOLLO.SANKII@GMAIL.COM).
+For product, engineering, or collaboration opportunities: [APOLLO.SANKII@GMAIL.COM](mailto:APOLLO.SANKII@GMAIL.COM)
