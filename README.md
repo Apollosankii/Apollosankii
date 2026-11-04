@@ -1,8 +1,8 @@
-# Felix Kariuki Njihia
+# Felix Njihia
 
 Full-stack and backend engineer building APIs, data-driven products, and reliable web and mobile applications with TypeScript, Java, PHP/Yii2, PostgreSQL, and Supabase.
 
-Nairobi, Kenya · [Email](mailto:apollo.sankii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tevin-mokaya-418060289) · [Portfolio](https://dev-website-rosy.vercel.app/)
+Nairobi, Kenya · [APOLLO.SANKII@GMAIL.COM](mailto:APOLLO.SANKII@GMAIL.COM) · [Portfolio](https://dev-website-rosy.vercel.app/)
 
 ## Tech Stack
 
