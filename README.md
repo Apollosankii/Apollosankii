@@ -1,6 +1,6 @@
 # Apollosankii
 
-I'm FELIX KARIUKI NJIHIA — a software engineering student at Co-operative University of Kenya (2023–present). I build mobile and full-stack products across React Native, Kotlin, TypeScript, PHP/Yii2, Java, and PostgreSQL.
+I'm FELIX KARIUKI NJIHIA — a software engineering at Co-operative University of Kenya (2023–present). I build mobile and full-stack products across React Native, Kotlin, TypeScript, PHP/Yii2, Java, and PostgreSQL.
 
 Open to internships, full-time roles, and contract work.
 
