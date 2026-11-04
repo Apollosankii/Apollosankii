@@ -1,52 +1,32 @@
-# Apollosankii
+# Felix Kariuki Njihia
 
-I'm FELIX KARIUKI NJIHIA — a software engineering at Co-operative University of Kenya (2023–present). I build mobile and full-stack products across React Native, Kotlin, TypeScript, PHP/Yii2, Java, and PostgreSQL.
+Full-stack and backend engineer building APIs, data-driven products, and reliable web and mobile applications with TypeScript, Java, PHP/Yii2, PostgreSQL, and Supabase.
 
-Open to internships, full-time roles, and contract work.
+Nairobi, Kenya · [Email](mailto:apollo.sankii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tevin-mokaya-418060289) · [Portfolio](https://dev-website-rosy.vercel.app/)
 
-**Nairobi, Kenya** · [apollo.sankii@gmail.com](mailto:pollo.sankii@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tevin-mokaya-418060289) · +254 768 679 899  
-Portfolio: [dev-website-rosy.vercel.app](https://dev-website-rosy.vercel.app/)
+## Tech Stack
 
-## What I work on
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white)
 
-- Cross-platform mobile (React Native / Expo) and native Android (Kotlin)
-- Full-stack web apps — React/TypeScript frontends and PHP (Yii2) backends
-- PostgreSQL databases, RBAC, migrations, and admin dashboards
-- Backends with Supabase (auth, Postgres, RLS) and custom PHP APIs
-- Shipping to real users, not only coursework
+## Project Highlights
 
-## Featured work (try these)
+- **[Bargain](https://github.com/Apollosankii/bargain)** — PHP/Yii2 auction marketplace with PostgreSQL APIs, role-based access control, payment workflows, and Codeception tests.
+- **[Hive Property Pro](https://github.com/Apollosankii/Hive-property-pro)** — TypeScript property-management PWA with Supabase Edge Functions, PostgreSQL-backed billing, and payment tracking.
+- **QejaCrib (private)** — Production property-management services with Supabase APIs, PostgreSQL financial workflows, offline synchronization, and query/cache performance debugging.
 
-### Open source
+## Currently Learning
 
-[Bargain](https://github.com/Apollosankii/bargain) — Full-stack online auction platform (bidders, auctioneers, admin console).  
-Built with **PHP · Yii2 · PostgreSQL · Bootstrap 5 · RBAC.  
-Live demo: [bargain-demo.onrender.com](https://bargain-demo.onrender.com) · Admin: [bargain-admin.onrender.com](https://bargain-admin.onrender.com) · [Source code](https://github.com/Apollosankii/bargain)
+Python for backend development, with Go and Rust as areas of continued exploration.
 
- Live demos
+## What I'm Working On
 
-Hive / QejaCrib — Property management for landlords and tenants (rent, units, maintenance).  
-Live: [hive-silk-six.vercel.app](https://hive-silk-six.vercel.app)
-
-Hive Property Pro — Property management PWA: buildings, tenants, utility billing, and payments.  
-Live: [property-pro-azure.vercel.app](https://property-pro-azure.vercel.app)
-
-AZeal — Ride-hailing operations dashboard (riders, drivers, trips).  
-Live: [azeal-admin-pied.vercel.app](https://azeal-admin-pied.vercel.app)
-
-ConnectHer — Operator admin portal (catalog and platform ops).  
-Live: [connecther-admin-portal.vercel.app](https://connecther-admin-portal.vercel.app)  
-Android (Kotlin): [connecther-android](https://github.com/Apollosankii/connecther-android)
-Private repositories
-
-Some production projects are kept **private** for confidentiality and client security. I'm happy to walk through architecture, code, and live demos in an interview — email [tevinmokaya@gmail.com](mailto:tevinmokaya@gmail.com) for access or demo credentials.
-
-Most live demos use a sign-in screen. Email me for a guest login if you want to click through.
-
-## Stack
-
-`TypeScript` `React` `React Native` `Expo` `Kotlin` `Java` `PHP` `Yii2` `PostgreSQL` `Supabase` `Git`
-
----
-
-Available for hire.
+Contributing to open-source projects by improving backend workflows, API reliability, automated tests, and developer documentation. I’m especially interested in practical fixes, focused refactoring, and measurable performance improvements.
